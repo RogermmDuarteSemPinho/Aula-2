@@ -1,0 +1,15 @@
+*{
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(to left, rgb(234, 250, 94),rgb(153, 0, 255));
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: crimson;
+}
